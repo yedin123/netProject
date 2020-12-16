@@ -1,5 +1,5 @@
 # netProject
-Network teat project
+Network team project
 
 Youtube link \
 ppt 발표 영상 : https://youtu.be/ltAmFN6IDVA 
